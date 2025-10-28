@@ -41,9 +41,9 @@ model that can classify a given iris flower into one of these three species base
 
 ## PROGRAM:
 
-**Name:** Rahul M R
+**Name:** MOHANKUMAR.S
 
-**Register Number:** 2305003005
+**Register Number:** 2305002014
 
 ```
 import pandas as pd
